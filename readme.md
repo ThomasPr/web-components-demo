@@ -2,6 +2,8 @@
 
 This sample projects shows a simple web component with some basic features. It allows to add a counter to a page and to increment and decrement the counter by buttons.
 
+A live demo is can be accessed at https://thomaspr.github.io/web-components-demo/
+
 The projects shows three main web component features:
 
 - [Web Component itself](#web-component-itself)
